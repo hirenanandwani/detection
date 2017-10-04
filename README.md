@@ -32,7 +32,7 @@ How to run this Repo ?
      
      
     Your Detection Model will start running. Detection timestamps (when person is detected in video) will be stored in output.txt file in
-    /YOLO/darknet/ directory. I have attached a sample output.txt generated on my machhine.
+    /YOLO/darknet/ directory. I have attached a sample output.txt generated on my machhine. 
     
     
 
