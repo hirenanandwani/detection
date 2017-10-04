@@ -10,7 +10,7 @@ What required to run this repo ?
 How to run this Repo ?
  
   Step -1
-     We use YOLO network for detecting human presence in video. So you need to first clone the YOLO repo.
+     I have used YOLO network for detecting human presence in video. So you need to first clone the YOLO repo.
      
      mkdir YOLO
      cd YOLO
@@ -19,12 +19,16 @@ How to run this Repo ?
      make
      
   Step -2
-     See the attached timestamps file which have timestamps of all frames of given video. Put that file into /YOLO/darknet directory
+  
+     See the attached timestamps file which have timestamps of all frames of given video. Put that file into /YOLO/darknet       directory
   
   Step -3
+  
      Input Video -  https://drive.google.com/file/d/0B2vPCVjlmUOsa2otcnJMbmtKRFE/view?usp=sharing
      Download and Rename the video as videoplayback
-     Run detection.py file attached above by firing command -  python detection.py    on your shell.
+     Run detection.py file attached above by firing command -  
+     
+     python detection.py    on your shell.
      
      
     Your Detection Model will start running. Detection timestamps (when person is detected in video) will be stored in output.txt file in
