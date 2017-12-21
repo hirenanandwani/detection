@@ -1,5 +1,5 @@
-# detection
-Detecting Human Presence in Video
+# Detection
+Detecting Human Presence in Video using Computer Vision and Machine Learning
 
 The Model is successfuuly tested and run on local Ubuntu 14.04.
 
